@@ -1,0 +1,5 @@
+.bg{
+    background-image: url(..//webhotel/img/bghotel.jpg);
+    min-height: 200px;
+    background-size: cover;
+}
